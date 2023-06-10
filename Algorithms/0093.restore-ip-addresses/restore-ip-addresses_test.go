@@ -27,7 +27,7 @@ func Test_Problem0093(t *testing.T) {
 
 	qs := []question{
 
-		question{
+		{
 			para{
 				"24525511135",
 			},
@@ -39,7 +39,7 @@ func Test_Problem0093(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				"26526511135",
 			},
@@ -48,7 +48,7 @@ func Test_Problem0093(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				"000",
 			},
@@ -57,7 +57,7 @@ func Test_Problem0093(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				"10111",
 			},
@@ -66,7 +66,7 @@ func Test_Problem0093(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				"111111",
 			},

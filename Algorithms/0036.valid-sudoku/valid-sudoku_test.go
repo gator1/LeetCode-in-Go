@@ -29,7 +29,7 @@ func Test_Problem0036(t *testing.T) {
 
 	qs := []question{
 
-		question{
+		{
 			para{[][]byte{
 				[]byte(".87654321"),
 				[]byte("2........"),
@@ -44,7 +44,7 @@ func Test_Problem0036(t *testing.T) {
 			ans{true},
 		},
 
-		question{
+		{
 			para{[][]byte{
 				[]byte(".87654321"),
 				[]byte("2.3......"),
@@ -59,7 +59,7 @@ func Test_Problem0036(t *testing.T) {
 			ans{false},
 		},
 
-		question{
+		{
 			para{[][]byte{
 				[]byte(".88654321"),
 				[]byte("2........"),
@@ -74,7 +74,7 @@ func Test_Problem0036(t *testing.T) {
 			ans{false},
 		},
 
-		question{
+		{
 			para{[][]byte{
 				[]byte(".87654321"),
 				[]byte("2....4..."),

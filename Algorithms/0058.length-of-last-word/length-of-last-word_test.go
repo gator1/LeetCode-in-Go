@@ -27,7 +27,7 @@ func Test_Problem0058(t *testing.T) {
 
 	qs := []question{
 
-		question{
+		{
 			para{
 				"haha",
 			},
@@ -36,7 +36,7 @@ func Test_Problem0058(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				"haha ",
 			},
@@ -45,7 +45,7 @@ func Test_Problem0058(t *testing.T) {
 			},
 		},
 		
-		question{
+		{
 			para{
 				"",
 			},
@@ -54,7 +54,7 @@ func Test_Problem0058(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				"Hello World",
 			},

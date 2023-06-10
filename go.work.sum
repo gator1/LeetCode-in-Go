@@ -1,0 +1,11 @@
+github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
+github.com/PuerkitoBio/goquery v1.5.0 h1:uGvmFXOA73IKluu/F84Xd1tt/z07GYm8X49XKHP7EJk=
+github.com/TruthHun/html2md v0.0.0-20200103021813-42640c281ac8 h1:ehl5nICeqS2K/chBxq1GQNBxgrg4lAQlc4a34MoNoUM=
+github.com/aQuaYi/GoKit v0.0.0-20170805152833-88827a405d9b h1:ETIKydTbnzwNUsIGDBiFl2EURPhMH3NnFHIDsnXc+o4=
+github.com/andybalholm/cascadia v1.0.0 h1:hOCXnnZ5A+3eVDX8pvgl4kofXv2ELss0bKcqRySc45o=
+github.com/astaxie/beego v1.12.0 h1:MRhVoeeye5N+Flul5PoVfD9CslfdoH+xqC/xvSQ5u2Y=
+github.com/bitly/go-simplejson v0.5.0 h1:6IH+V8/tVMab511d5bn4M7EwGXZf9Hj6i2xSwkNEM+Y=
+github.com/mozillazg/request v0.8.0 h1:TbXeQUdBWr1J1df5Z+lQczDFzX9JD71kTCl7Zu/9rNM=
+github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644 h1:X+yvsM2yrEktyI+b2qND5gpH8YhURn0k8OCaeRnkINo=
+golang.org/x/net v0.0.0-20191124235446-72fef5d5e266 h1:QuOiA7GCO0OSDzlNlFyOWOywDsjuzW8M2yvBfCqw+cY=
+gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df h1:n7WqCuqOuCbNr617RXOY0AWRXxgwEyPp2z+p0+hgMuE=
