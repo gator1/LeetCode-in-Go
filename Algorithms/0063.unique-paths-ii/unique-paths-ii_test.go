@@ -27,7 +27,7 @@ func Test_Problem0063(t *testing.T) {
 
 	qs := []question{
 
-		question{
+		{
 			para{
 				[][]int{
 					[]int{1},
@@ -38,7 +38,7 @@ func Test_Problem0063(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				[][]int{
 					[]int{0, 0, 0},
@@ -51,7 +51,7 @@ func Test_Problem0063(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				[][]int{
 					[]int{0, 1, 0},
@@ -64,14 +64,14 @@ func Test_Problem0063(t *testing.T) {
 			},
 		},
 
-		question{
+		{
 			para{
 				[][]int{},
 			},
 			ans{0},
 		},
 
-		question{
+		{
 			para{
 				[][]int{
 					[]int{},
